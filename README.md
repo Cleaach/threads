@@ -68,3 +68,4 @@ Made by @Cleaach on GitHub.
 [Contact] (mailto:clementaditya@gmail.com)
 
 Part of an assignment for Computing for Voluntary Welfare Organizations at the National University of Singapore.
+Last updated January 25, 2025.
