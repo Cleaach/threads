@@ -15,7 +15,6 @@ const BasicThreadList: React.FC = () => {
     const [currentUserId, setCurrentUserId] = useState<string | null>(null);
 
     useEffect(() => {
-        
         const userId = localStorage.getItem("userId");
         setCurrentUserId(userId);
 

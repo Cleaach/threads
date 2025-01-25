@@ -2,7 +2,7 @@ package category
 
 import (
 	"database/sql"
-	"github.com/Cleaach/cvwo-backend/types"
+	"github.com/Cleaach/threads/backend/types"
 	"fmt"
 )
 

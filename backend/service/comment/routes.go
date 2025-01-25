@@ -3,8 +3,8 @@ package comment
 import (
 	"net/http"
 	"github.com/gorilla/mux"
-	"github.com/Cleaach/cvwo-backend/types"
-	"github.com/Cleaach/cvwo-backend/utils"
+	"github.com/Cleaach/threads/backend/types"
+	"github.com/Cleaach/threads/backend/utils"
 	"strconv"
 	"fmt"
 )

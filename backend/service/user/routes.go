@@ -3,11 +3,11 @@ package user
 import (
 	"net/http"
 	"github.com/gorilla/mux"
-	"github.com/Cleaach/cvwo-backend/types"
-	"github.com/Cleaach/cvwo-backend/utils"
-	"github.com/Cleaach/cvwo-backend/config"
+	"github.com/Cleaach/threads/backend/types"
+	"github.com/Cleaach/threads/backend/utils"
+	"github.com/Cleaach/threads/backend/config"
 	"fmt"
-	"github.com/Cleaach/cvwo-backend/service/auth"
+	"github.com/Cleaach/threads/backend/service/auth"
 	"strconv"
 )
 

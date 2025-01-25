@@ -30,7 +30,7 @@ func WriteError(w http.ResponseWriter, status int, err error) {
 
 
 
-var JwtSecret = []byte("ENTER_SECRET_HERE")
+var JwtSecret = []byte("cvwo")
 
 func ExtractUserIDFromJWT(r *http.Request) (int, error) {
 	// Get the "Authorization" header
