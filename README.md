@@ -1,6 +1,6 @@
 # Threads
 
-![Demo](demo.png)
+![Demo](images/demo.png)
 
 This is a simple online forum web application where communities can share their ideas and opinions with one another. Users can create accounts to post threads and comments, all with a simple, intuitive user experience and CRUD operations available to owners of the threads and comments.
 
