@@ -34,7 +34,7 @@ Users can:
 
 ### Prerequisites
 
-The project requires [Go](https://go.dev) to be installed, as well as [Yarn](https://yarnpkg.com). Moreover, [MySQL](https://www.mysql.com) and a MySQL client (like [TablePlus](https://tableplus.com) are also needed.
+The project requires [Go](https://go.dev) to be installed, as well as [Yarn](https://yarnpkg.com). Moreover, [MySQL](https://www.mysql.com) and a MySQL client (like [TablePlus](https://tableplus.com)) are also needed.
 
 ### Setup
 
