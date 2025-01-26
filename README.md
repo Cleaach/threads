@@ -4,6 +4,16 @@
 
 This is a simple online forum web application where communities can share their ideas and opinions with one another. Users can create accounts to post threads and comments, all with a simple, intuitive user experience and CRUD operations available to owners of the threads and comments.
 
+## Features
+
+Users can:
+1. read all threads;
+2. read all comments on all threads;
+3. sign up for and log into accounts;
+4. write their own threads;
+5. comment on any thread; and
+6. edit or delete their thread after creation.
+
 ## Technologies Used
 
 ### Frontend
@@ -24,13 +34,13 @@ This is a simple online forum web application where communities can share their 
 
 ### Prerequisites
 
-The project requires Go to be installed, as well as Yarn. Moreover, MySQL and a MySQL client (like TablePlus) are also needed.
+The project requires [Go](https://go.dev) to be installed, as well as [Yarn](https://yarnpkg.com). Moreover, [MySQL](https://www.mysql.com) and a MySQL client (like [TablePlus](https://tableplus.com) are also needed.
 
 ### Setup
 
 1. Clone this repository to your local machine.
 2. In your local terminal, navigate to the project directory.
-3. Start your MySQL server and boot up your preferred MySQL client. Ensure the client is connected to the MySQL server by entering the port (3306 by default), root user, and password. Also, enter your password in line 28 of `/backend/config/env.go`.
+3. [Start your MySQL server](https://dev.mysql.com/doc/mysql-getting-started/en/) and boot up your preferred MySQL client. Ensure the client is connected to the MySQL server by entering the port (3306 by default), root user, and password. Also, enter your password in line 28 of `/backend/config/env.go`.
 4. Run the entirety of `/init.sql` using your MySQL client to initialize the database and tables needed for this project.
 5. In the `/backend` folder, in a terminal, execute:
 
@@ -66,10 +76,10 @@ The project requires Go to be installed, as well as Yarn. Moreover, MySQL and a 
 
 ## About
 
-Made by @Cleaach on GitHub.  
+Developed by Clement Chen.  
 [LinkedIn](https://www.linkedin.com/in/clementchendra)  
 [Contact](mailto:clementaditya@gmail.com)
 
 Part of an assignment for Computing for Voluntary Welfare Organizations at the National University of Singapore.  
-Last updated January 25, 2025.
+Last updated January 26th, 2025.
 
